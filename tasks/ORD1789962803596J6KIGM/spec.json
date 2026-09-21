@@ -1,0 +1,50 @@
+{
+  "order_no": "ORD1789962803596J6KIGM",
+  "uumit_order_id": "a68a1ce0-7c43-4631-a154-8e3173eed6ff",
+  "task_title": "做一条城市夜景延时混剪",
+  "category": "视频制作",
+  "bounty_ut": "1070.00",
+  "external_deadline": "2026-09-24T03:53:23Z",
+  "internal_deadline": "2026-09-23T15:53:23Z",
+  "deliverable_type": "video",
+  "filename": "城市夜景延时混剪.mp4",
+  "spec": {
+    "container": "mp4",
+    "video_codec": "h264",
+    "pix_fmt": "yuv420p",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "width": 1920,
+    "height": 1080,
+    "fps": [25, 30],
+    "duration_seconds": 20,
+    "duration_tolerance_seconds": [19, 21],
+    "max_size_bytes": 104857600
+  },
+  "constraints": [
+    "royalty_free_material_only",
+    "no_watermark",
+    "no_logo",
+    "no_subtitle_bar",
+    "music_must_be_commercially_licensed",
+    "no_copyright_infringement",
+    "no_prohibited_content"
+  ],
+  "content_requirements": {
+    "theme": "城市夜景延时剪辑",
+    "must_include": [
+      "真实延时镜头（云/车流/人流/光影明显加速）",
+      "多镜头切换（非单镜头一镜到底）",
+      "有节奏感的音乐，剪辑点大致卡鼓点"
+    ],
+    "forbidden": [
+      "静态图片堆叠冒充延时",
+      "纯色/测试片",
+      "与城市夜景延时无关的内容"
+    ]
+  },
+  "delivery_path": "deliverables/ORD1789962803596J6KIGM/城市夜景延时混剪.mp4",
+  "commit_message_format": "deliver: <order_no> <filename>",
+  "review_checklist": "docs/review-checklist.md"
+}
