@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-09-21T07:31:00Z",
+  "schema_version": 1,
+  "note": "机器可读台账。与 ledger.md 保持同步；本文件供脚本读写，ledger.md 供人阅读。",
+  "entries": [
+    {
+      "order_no": "ORD1789962803596J6KIGM",
+      "task_title": "做一条城市夜景延时混剪",
+      "submitter": null,
+      "submitted_at": null,
+      "revision": 0,
+      "review": "pending_claim",
+      "reviewed_at": null,
+      "note": "已发布，待承接"
+    }
+  ],
+  "summary": {
+    "published": 1,
+    "claimed": 0,
+    "submitted": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "rework": 0,
+    "delivered": 0,
+    "closed": 0
+  }
+}
