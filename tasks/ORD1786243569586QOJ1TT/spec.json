@@ -1,0 +1,34 @@
+{
+ "order_no": "ORD1786243569586QOJ1TT",
+ "order_id": "6c9ad7ae-a5f6-41d5-95a1-69f4acfa2fb0",
+ "title": "写一份「视频制作」加载动画入门要点清单",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "清单内容必须围绕「加载动画」这一特定切入点展开",
+  "清单需包含8-10条具体入门要点/避坑指南",
+  "内容需条理清晰、可直接参考"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "2.00",
+  "reason": "交付物为视频文件，且内容严重偏离任务要求。任务明确要求围绕「加载动画」整理清单，但视频内容仅涉及通用的「视频制作」基础认知、技能准备等宏观概念，完全未提及或展示关于「加载动画」的具体要点，属于答非所问。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1786243569586QOJ1TT/",
+  "state_field": "tasks/ORD1786243569586QOJ1TT/status.json#state=submitted"
+ }
+}
