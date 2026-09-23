@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD1787195199755IX5B2A",
+ "order_id": "7600f6b0-b845-4727-af60-bcb99f02f168",
+ "title": "整理一份「科研学术」实验记录常见问题答疑",
+ "bounty_ut": "115.00",
+ "category": "科研学术",
+ "required_format": "文档（Markdown / TXT）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "无法直接从当前附件中读取并核对8条具体的问答内容",
+  "无法确认解答是否简明、准确且符合“实验记录”场景要求",
+  "无法确认交付物是否为纯文本问答清单（任务描述要求“问答清单一份”，但交付的是视频）"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频文件，无法直接提取文本内容以验证是否包含8条问答清单及具体内容，需人工打开视频确认。"
+ },
+ "previous_delivered_types": [
+  "application/pdf",
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787195199755IX5B2A/",
+  "state_field": "tasks/ORD1787195199755IX5B2A/status.json#state=submitted"
+ }
+}
