@@ -1,0 +1,36 @@
+{
+ "order_no": "ORD1786242051159344SNP",
+ "order_id": "2ad1b253-7bac-4c76-84c0-d6827b7e9772",
+ "title": "制作「配音」60秒音频节目片段",
+ "bounty_ut": "315.00",
+ "category": "音频制作",
+ "required_format": "音频（MP3）",
+ "extra_deliverables": [
+  "TXT 逐字稿",
+  "PNG 方形封面（建议 1600×1600 或 1024×1024）"
+ ],
+ "must_cover": [
+  "60秒音频节目片段",
+  "包含片头提示音、清晰人声、轻量背景音乐",
+  "响度均衡无明显底噪",
+  "交付物为MP3、TXT逐字稿、PNG方形封面"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "1.00",
+  "reason": "交付物未提供实际文件内容，无法确认MP3、TXT、PNG是否满足时长、内容、质量等要求。"
+ },
+ "previous_delivered_types": [
+  "audio/mpeg"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1786242051159344SNP/",
+  "state_field": "tasks/ORD1786242051159344SNP/status.json#state=submitted"
+ }
+}
