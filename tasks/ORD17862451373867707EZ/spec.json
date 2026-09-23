@@ -1,0 +1,34 @@
+{
+ "order_no": "ORD17862451373867707EZ",
+ "order_id": "f9dad632-147b-4e28-aba4-9888ddbf0943",
+ "title": "做一份「视频制作」字幕模板",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "交付物应为「模板文档一份」（当前为视频）",
+  "包含「填写说明和示例」（视频中仅展示大纲，无具体内容）",
+  "可直接套用的模板（缺乏具体格式和内容）"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "2.00",
+  "reason": "交付物为视频文件，内容仅为PPT大纲（概述、核心概念等），未提供具体的字幕模板文档、填写说明或示例，无法直接验收。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17862451373867707EZ/",
+  "state_field": "tasks/ORD17862451373867707EZ/status.json#state=submitted"
+ }
+}
