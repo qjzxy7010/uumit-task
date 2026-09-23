@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD178719665944463KL7C",
+ "order_id": "4c1ae104-3b9e-40ae-884c-c9371f92eda3",
+ "title": "整理一份「咨询顾问」创业避坑清单",
+ "bounty_ut": "66.00",
+ "category": "咨询顾问",
+ "required_format": "文档（Markdown / TXT）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "无法从当前文本或附件中直接确认是否包含10条避坑要点",
+  "无法确认每条避坑要点是否附有原因说明",
+  "无法确认内容是否围绕「咨询顾问」创业常见坑点展开"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "2.00",
+  "reason": "交付物为视频文件，审查员无法直接查看视频内容以确认是否包含任务要求的10条避坑要点及原因说明。"
+ },
+ "previous_delivered_types": [
+  "text/plain; charset=utf-8",
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD178719665944463KL7C/",
+  "state_field": "tasks/ORD178719665944463KL7C/status.json#state=submitted"
+ }
+}
