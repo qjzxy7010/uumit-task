@@ -1,0 +1,35 @@
+{
+ "order_no": "ORD17874540482898F71PI",
+ "order_id": "0f985190-4c08-4409-a32d-48fbc996b974",
+ "title": "做一份「视频制作」字幕速查手册",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "无法确认交付物是否为表格化格式",
+  "无法确认是否包含字幕速查的具体要点与示例",
+  "无法确认视频内是否实际呈现了完整的速查手册内容",
+  "需要人工打开视频才能判断内容完整性"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "2.00",
+  "reason": "交付物为视频文件，无法直接确认是否包含任务要求的表格化内容、要点与示例；且视频内容看似为手册制作指南而非手册本身。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17874540482898F71PI/",
+  "state_field": "tasks/ORD17874540482898F71PI/status.json#state=submitted"
+ }
+}
