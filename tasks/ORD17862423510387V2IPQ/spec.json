@@ -1,0 +1,40 @@
+{
+ "order_no": "ORD17862423510387V2IPQ",
+ "order_id": "816aeb58-f08a-422a-b6d0-9e396a7eb74e",
+ "title": "制作「混音」60秒音频节目片段",
+ "bounty_ut": "172.00",
+ "category": "音频制作",
+ "required_format": "音频（MP3）",
+ "extra_deliverables": [
+  "TXT 逐字稿",
+  "PNG 方形封面（建议 1600×1600 或 1024×1024）"
+ ],
+ "must_cover": [
+  "需提供MP3音频文件",
+  "需提供TXT逐字稿",
+  "需提供PNG方形封面",
+  "需包含片头提示音",
+  "清晰人声",
+  "轻量背景音乐",
+  "响度均衡无明显底噪",
+  "时长60秒"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "1.00",
+  "reason": "未提供实际交付文件（MP3、TXT、PNG），无法确认是否满足任何要求"
+ },
+ "previous_delivered_types": [
+  "audio/mpeg"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17862423510387V2IPQ/",
+  "state_field": "tasks/ORD17862423510387V2IPQ/status.json#state=submitted"
+ }
+}
