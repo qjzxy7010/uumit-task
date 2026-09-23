@@ -1,0 +1,15 @@
+{
+ "order_no": "ORD1786242051159344SNP",
+ "state": "open",
+ "revision": 0,
+ "created_at": "2026-09-23T15:28:15Z",
+ "note": "返工补救：原交付物被 AI 审查判不合格（评分 1.00），需按 brief.md 重新交付 音频（MP3）",
+ "history": [
+  {
+   "at": "2026-09-23T15:28:15Z",
+   "state": "open",
+   "by": "agent",
+   "note": "任务书发布（返工补救）"
+  }
+ ]
+}
