@@ -1,0 +1,35 @@
+{
+ "order_no": "ORD1786243348831QQFZW4",
+ "order_id": "bbd3363a-8e8b-470d-a677-56a81f869778",
+ "title": "整理一份「视频制作」演示视频方案",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "方案文档的具体文本内容缺失（仅提供了视频形式的展示）",
+  "关键验收要求中的「步骤」、「注意事项」在视频中仅作为标题出现，未见具体展开说明",
+  "无法确认方案是否具备「可落地」的实操细节",
+  "交付物形式为视频而非要求的「方案文档一份」（虽然视频可能包含文档内容，但审查员无法直接提取文本进行核对）"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为演示视频（MP4），内容仅为PPT大纲/目录结构，缺乏具体的方案细节、操作步骤和注意事项等实质性内容，无法直接确认是否满足“可落地”的要求。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1786243348831QQFZW4/",
+  "state_field": "tasks/ORD1786243348831QQFZW4/status.json#state=submitted"
+ }
+}
