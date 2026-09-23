@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD1787194916218ZKE69V",
+ "order_id": "69c65daf-2c43-46f9-9e33-10982a197b61",
+ "title": "写一份「科研学术」参考文献操作步骤说明",
+ "bounty_ut": "115.00",
+ "category": "科研学术",
+ "required_format": "文档（Markdown / TXT）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "无法确认交付物实际包含的参考文献操作步骤数量（要求不少于6步）",
+  "无法确认每个步骤是否均包含具体要点",
+  "无法确认文档结构是否完整覆盖所有关键验收要求"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频文件，审查员无法直接查看视频内容以确认是否满足“不少于6步”及“每步含要点”等文本要求。"
+ },
+ "previous_delivered_types": [
+  "text/plain; charset=utf-8",
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787194916218ZKE69V/",
+  "state_field": "tasks/ORD1787194916218ZKE69V/status.json#state=submitted"
+ }
+}
