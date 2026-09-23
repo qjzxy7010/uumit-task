@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD1787147585356M5HA7Q",
+ "order_id": "eb3033a3-7f0e-4719-8d01-6897ff41c2c6",
+ "title": "写一份「翻译服务」技术文档常见错误盘点",
+ "bounty_ut": "66.00",
+ "category": "翻译服务",
+ "required_format": "文档（Markdown / TXT）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "任务明确要求交付物为「错误盘点文档一份」，实际交付为视频文件",
+  "无法从当前文本或附件中直接确认是否完整覆盖了所有8个关键错误点及其正确做法",
+  "需要人工打开并观看视频才能判断内容完整性"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频格式，审查员无法直接查看视频内容以确认是否包含完整的8个错误盘点及正确做法，且任务要求交付“文档一份”，与提供的视频形式不符。"
+ },
+ "previous_delivered_types": [
+  "text/plain; charset=utf-8",
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787147585356M5HA7Q/",
+  "state_field": "tasks/ORD1787147585356M5HA7Q/status.json#state=submitted"
+ }
+}
