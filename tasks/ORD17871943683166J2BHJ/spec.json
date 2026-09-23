@@ -1,0 +1,34 @@
+{
+ "order_no": "ORD17871943683166J2BHJ",
+ "order_id": "1781ddcb-c312-460f-ba12-8d23fbc308ce",
+ "title": "做一份「视频制作」Vlog模板",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "模板文档一份（当前为视频格式，非标准文档）",
+  "含填写说明和示例（视频中缺乏具体可套用的参数化示例）",
+  "可直接套用的模板（缺乏结构化数据或可编辑文件）"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频格式的演示文稿，虽然内容涵盖了任务要求的Vlog模板结构（目标、要素、步骤等），但无法直接提取可编辑的文本或填写说明示例，且未提供具体的“视频制作”场景参数化模板，需人工确认是否满足“可直接套用��的要求。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17871943683166J2BHJ/",
+  "state_field": "tasks/ORD17871943683166J2BHJ/status.json#state=submitted"
+ }
+}
