@@ -1,0 +1,34 @@
+{
+ "order_no": "ORD1787196584417VAKZID",
+ "order_id": "7dc5509e-33ae-4ddc-b758-02a91a74f9bf",
+ "title": "写一份「视频制作」开场操作步骤说明",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "无法从当前文本或附件中直接确认步骤数量是否达到“不少于6步”的要求",
+  "无法确认每个步骤是否包含明确的“要点”",
+  "无法确认文档内容的完整性和逻辑结构是否符合验收标准"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频文件，无法直接提取文本内容验证��否满足“不少于6步”及“每步含要点”的硬性要求，需人工打开视频确认。"
+ },
+ "previous_delivered_types": [
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787196584417VAKZID/",
+  "state_field": "tasks/ORD1787196584417VAKZID/status.json#state=submitted"
+ }
+}
