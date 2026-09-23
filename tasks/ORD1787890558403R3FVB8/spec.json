@@ -1,0 +1,41 @@
+{
+ "order_no": "ORD1787890558403R3FVB8",
+ "order_id": "605d0735-27a3-4bb3-b2fe-78adacc17afa",
+ "title": "制作演示视频多媒介素材包",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "多媒介三件套（PNG + JSON + HTML）",
+ "extra_deliverables": [
+  "1600×900 PNG 主视觉",
+  "10 条结构化 JSON 数据",
+  "可运行 HTML 预览页",
+  "本地打开说明"
+ ],
+ "must_cover": [
+  "制作 1 张 1600x900 PNG 主视觉",
+  "整理 10 条结构化 JSON 数据",
+  "生成可运行 HTML 预览页",
+  "附本地打开说明"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "1.00",
+  "reason": "交付物仅包含一个演示视频，严重缺失任务明确要求的PNG主视觉、JSON数据和HTML预览页等核心文件。"
+ },
+ "previous_delivered_types": [
+  "video/mp4",
+  "image/png",
+  "application/json; charset=utf-8",
+  "text/html; charset=utf-8"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787890558403R3FVB8/",
+  "state_field": "tasks/ORD1787890558403R3FVB8/status.json#state=submitted"
+ }
+}
