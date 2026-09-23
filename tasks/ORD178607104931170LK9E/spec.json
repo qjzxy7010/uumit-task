@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD178607104931170LK9E",
+ "order_id": "318728b7-96dc-4484-9142-8ce941b493fc",
+ "title": "整理一份「视频制作」混剪方案",
+ "bounty_ut": "94.00",
+ "category": "视频制作",
+ "required_format": "视频（MP4）",
+ "extra_deliverables": [
+  "同内容文档一份（.md，便于审查读到内容）"
+ ],
+ "must_cover": [
+  "缺少视频文件（mp4/mov 等）"
+ ],
+ "review": {
+  "status": "rejected",
+  "score": "0.00",
+  "reason": "交付物类型（md）与任务要求不符，应交付视频文件（mp4/mov 等），疑似用文本/占位文件冒充实际产物。"
+ },
+ "previous_delivered_types": [
+  "video/mp4",
+  "text/markdown; charset=utf-8"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD178607104931170LK9E/",
+  "state_field": "tasks/ORD178607104931170LK9E/status.json#state=submitted"
+ }
+}
