@@ -1,0 +1,38 @@
+{
+ "order_no": "ORD17862423537188818G8",
+ "order_id": "0d8adc85-f244-4584-95a7-a03ff0214a5e",
+ "title": "制作「数字播报」60秒音频节目片段",
+ "bounty_ut": "322.00",
+ "category": "音频制作",
+ "required_format": "音频（MP3）",
+ "extra_deliverables": [
+  "TXT 逐字稿",
+  "PNG 方形封面（建议 1600×1600 或 1024×1024）"
+ ],
+ "must_cover": [
+  "提供MP3音频文件���60秒，包含片头提示音、清晰人声、轻量背景音乐，响度均衡无底噪）",
+  "提供TXT逐字稿",
+  "提供PNG方形封面"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "2.00",
+  "reason": "交付物仅包含文字描述，未提供实际MP3、TXT、PNG文件，无法确认是否满足所有关键要求。"
+ },
+ "previous_delivered_types": [
+  "audio/mpeg",
+  "mp3",
+  "txt",
+  "png"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17862423537188818G8/",
+  "state_field": "tasks/ORD17862423537188818G8/status.json#state=submitted"
+ }
+}
