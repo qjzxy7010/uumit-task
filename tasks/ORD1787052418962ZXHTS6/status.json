@@ -1,0 +1,15 @@
+{
+ "order_no": "ORD1787052418962ZXHTS6",
+ "state": "open",
+ "revision": 0,
+ "created_at": "2026-09-23T15:28:15Z",
+ "note": "返工补救：原交付物被 AI 审查判不合格（评分 3.00），需按 brief.md 重新交付 文档（Markdown / TXT）",
+ "history": [
+  {
+   "at": "2026-09-23T15:28:15Z",
+   "state": "open",
+   "by": "agent",
+   "note": "任务书发布（返工补救）"
+  }
+ ]
+}
