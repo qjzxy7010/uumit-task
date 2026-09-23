@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD17861613538284ET40I",
+ "order_id": "3dbaf149-30e0-478d-888b-bd5a9beb8279",
+ "title": "做一段雨声白噪音",
+ "bounty_ut": "405.00",
+ "category": "音频制作",
+ "required_format": "音频（MP3）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "实际音频文件",
+  "时长1分钟",
+  "可循环",
+  "雨声白噪音且适合助眠"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "1.00",
+  "reason": "交付物仅有自述文字，无实际音频文件内容，无法确认是否满足制作1分钟可循环雨声白噪音的要求。"
+ },
+ "previous_delivered_types": [
+  "audio/mpeg"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD17861613538284ET40I/",
+  "state_field": "tasks/ORD17861613538284ET40I/status.json#state=submitted"
+ }
+}
