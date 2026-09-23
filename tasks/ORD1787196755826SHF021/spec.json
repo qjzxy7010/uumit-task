@@ -1,0 +1,33 @@
+{
+ "order_no": "ORD1787196755826SHF021",
+ "order_id": "8e8f2a37-a4a8-4218-b7a6-771faee1319b",
+ "title": "翻译 15 条景区提示语",
+ "bounty_ut": "115.00",
+ "category": "翻译服务",
+ "required_format": "文档（Markdown / TXT）",
+ "extra_deliverables": [],
+ "must_cover": [
+  "无法确认是否完整包含所有15条景区提示语的翻译",
+  "无法确认交付物是否为符合要求的‘中英对照表’格式",
+  "视频内容在第12条处截断，缺少第13-15条的完整译文证据"
+ ],
+ "review": {
+  "status": "manual_required",
+  "score": "3.00",
+  "reason": "交付物为视频文件，无法直接���取文本进行逐条核对；且视频内容显示翻译仅展示到第12条即截断，未明确包含全部15条提示语的中英对照表。"
+ },
+ "previous_delivered_types": [
+  "text/plain; charset=utf-8",
+  "video/mp4"
+ ],
+ "constraints": [
+  "no_copyright_risk",
+  "no_watermark",
+  "must_be_new_file_not_resubmit",
+  "file_openable"
+ ],
+ "submission": {
+  "repo_path": "deliverables/ORD1787196755826SHF021/",
+  "state_field": "tasks/ORD1787196755826SHF021/status.json#state=submitted"
+ }
+}
